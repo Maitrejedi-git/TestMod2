@@ -1,0 +1,6 @@
+{
+  "parent": "testmod:item/ball_lightning_staff",
+  "textures": {
+    "layer0": "testmod:item/ball_lightning_staff_charging_1"
+  }
+}

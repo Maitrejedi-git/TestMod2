@@ -1,0 +1,18 @@
+{
+  "ball_lightning_staff_charge": {
+    "subtitle": "sounds.testmod.ball_lightning_staff_charge",
+    "sounds": [
+      "testmod:ball_lightning_staff_charge"
+    ]
+  },
+  "ball_lightning": {
+    "subtitle": "sounds.testmod.ball_lightning",
+    "sounds": [
+      {
+        "name": "testmod:ball_lightning",
+        "stream": true,
+        "attenuation_distance": 32
+      }
+    ]
+  }
+}
