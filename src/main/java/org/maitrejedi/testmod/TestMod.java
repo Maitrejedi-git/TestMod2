@@ -8,8 +8,7 @@ public class TestMod
 {
 	public static final String MOD_ID = "testmod";
 
-	public TestMod()
-	{
+	public TestMod() {
 		LanguageAdapter.registerMod(MOD_ID);
 	}
 	

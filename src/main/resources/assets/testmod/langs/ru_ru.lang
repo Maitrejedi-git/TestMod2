@@ -1,3 +1,5 @@
 item.testmod.ball_lightning_staff=Посох шаровой молнии
 
+block.testmod.lightning_generator=Молниевый Генератор
+
 creative_tab.testmod.root=Тестовый Мод

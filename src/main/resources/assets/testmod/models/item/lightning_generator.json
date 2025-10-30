@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/lightning_generator",
-		"particle": "block/lightning_generator"
+		"0": "testmod:block/lightning_generator",
+		"particle": "testmod:block/lightning_generator"
 	},
 	"elements": [
 		{

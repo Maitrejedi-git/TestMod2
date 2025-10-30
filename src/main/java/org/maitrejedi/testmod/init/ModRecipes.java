@@ -14,5 +14,12 @@ public class ModRecipes implements IRecipeProvider {
                 .shape(" a ", " aa", "a  ")
                 .map('a', Items.OBSIDIAN)
                 .register();
+
+        event.shaped()
+                .result(ModBlocks.LIGHTNING_GENERATOR_BLOCK)
+                .shape("   ", " b ", "aaa")
+                .map('a', Items.OBSIDIAN)
+                .map('b', Items.LIGHTNING_ROD)
+                .register();
     }
 }
